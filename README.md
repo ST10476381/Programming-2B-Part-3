@@ -129,6 +129,15 @@ The following functionality has been checked:
 - Profile management.
 - Profile image uploads.
 - Restricted access to organiser pages.
+
+## 10. Conclusion
+
+RaceDay provides a centralised platform for managing race events and participant activities. It demonstrates the use of ASP.NET Core Web API, MVC architecture, SQL Server, authentication, role-based access and database integration.
+
+
+Below is The workflow
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/3d771a55-f401-4818-998c-ea472debb17d" />
+
 ## References
 
 GitHub (n.d.) *GitHub Documentation*. Available at: https://docs.github.com/en (Accessed: 9 November 2026).
@@ -145,7 +154,3 @@ Microsoft (n.d.) *Visual Studio documentation*. Available at: https://learn.micr
 
 Microsoft (n.d.) *.NET documentation*. Available at: https://learn.microsoft.com/en-us/dotnet/ (Accessed: 9 November 2026).
 Both RaceDayAPI and RaceDayMVC build successfully.
-
-## 10. Conclusion
-
-RaceDay provides a centralised platform for managing race events and participant activities. It demonstrates the use of ASP.NET Core Web API, MVC architecture, SQL Server, authentication, role-based access and database integration.
