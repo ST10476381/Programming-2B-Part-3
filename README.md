@@ -128,7 +128,21 @@ The following functionality has been checked:
 - Profile management.
 - Profile image uploads.
 - Restricted access to organiser pages.
+## References
 
+GitHub (n.d.) *GitHub Documentation*. Available at: https://docs.github.com/en (Accessed: 9 November 2026).
+
+Microsoft (n.d.) *ASP.NET Core documentation*. Available at: https://learn.microsoft.com/en-us/aspnet/core/ (Accessed: 9 November 2026).
+
+Microsoft (n.d.) *Entity Framework Core documentation*. Available at: https://learn.microsoft.com/en-us/ef/core/ (Accessed: 9 November 2026).
+
+Microsoft (n.d.) *SQL Server Management Studio (SSMS)*. Available at: https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms (Accessed: 9 November 2026).
+
+Microsoft (n.d.) *SQL Server documentation*. Available at: https://learn.microsoft.com/en-us/sql/sql-server/ (Accessed: 9 November 2026).
+
+Microsoft (n.d.) *Visual Studio documentation*. Available at: https://learn.microsoft.com/en-us/visualstudio/ (Accessed: 9 November 2026).
+
+Microsoft (n.d.) *.NET documentation*. Available at: https://learn.microsoft.com/en-us/dotnet/ (Accessed: 9 November 2026).
 Both RaceDayAPI and RaceDayMVC build successfully.
 
 ## 10. Conclusion
