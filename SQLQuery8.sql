@@ -1,0 +1,5 @@
+USE RaceDay;
+
+SELECT *
+FROM dbo.RESULT
+ORDER BY ResultID DESC;
